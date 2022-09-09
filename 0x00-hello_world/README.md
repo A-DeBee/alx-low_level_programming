@@ -1,1 +1,1 @@
-compile and creates executable
+cisfun
