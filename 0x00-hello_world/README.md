@@ -1,1 +1,1 @@
-assembler witwith .s extension
+compile and creates executable
