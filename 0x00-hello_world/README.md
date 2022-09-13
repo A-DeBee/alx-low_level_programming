@@ -1,1 +1,1 @@
-name executable
+4-puts.c
